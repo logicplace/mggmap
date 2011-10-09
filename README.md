@@ -21,13 +21,16 @@ Simplest format, where numbers represent how many tiles are stacked on that
 space. The position of the tile is the column/row in the text. You may use
 numbers, space acts as 0, unicode's mahjong set, or the progressively filled
 blocks.
+
 To display them (from 0-9):
+
 * 0123456789
 * ０１２３４５６７８９
 * 🀆🀇🀈🀉🀊🀋🀌🀍🀎🀏
 * 🀆🀐🀑🀒🀓🀔🀕🀖🀗🀘
 * 🀆🀙🀚🀛🀜🀝🀞🀟🀠🀡
 *  ▁▂▃▄▅▆▇█
+
 All other mahjong pieces act as 0, too.
 
 # \*grams for fine depth #
