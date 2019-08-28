@@ -1,6 +1,6 @@
 # Mahjongg Map Tool by Wa (logicplace.com)
 
-Tool to compile, verify, and install maps for Mahjongg (found in Gnome Games).
+Tool to compile, verify, and install maps for [Mahjongg](https://wiki.gnome.org/Apps/Mahjongg) (found in GNOME Games).
 
 See `mggmap.py --help` for command line help.
 
