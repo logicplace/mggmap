@@ -1,4 +1,4 @@
-# Mahjongg Map Tool by Wa (logicplace.com)
+# Mahjongg Map Tool
 
 Tool to compile, verify, and install maps for [Mahjongg](https://wiki.gnome.org/Apps/Mahjongg) (found in GNOME Games).
 
@@ -43,3 +43,7 @@ You can use these to represent inconsistent stacks of tiles. Not gonna list
 them here though there's too many.
 
 Supports a depth of up to six.
+
+## Contributors
+
+* Sapphire Becker (logicplace.com)
