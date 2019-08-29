@@ -1,5 +1,5 @@
 #Map: Awesome Face
-#Author: Wa (logicplace.com)
+#Author: Sapphire Becker (logicplace.com)
 
 00000000001111111000000000
 00000011110000000111100000
